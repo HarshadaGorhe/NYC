@@ -1,0 +1,170 @@
+[
+ {
+   "licensetype":"Individual",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Salesperson",
+   "long":40.666189,
+   "lat":-73.944311
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Contractor",
+   "long":40.59648,
+   "lat":-73.997424
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"4/30/2016",
+   "category":"Pawnbroker",
+   "long":40.816898,
+   "lat":-73.919927
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Contractor",
+   "long":40.597448,
+   "lat":-73.973466
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"3/31/2018",
+   "category":"Stoop Line Stand",
+   "long":40.713099,
+   "lat":-73.996938
+ },
+ {
+   "licensetype":"Individual",
+   "expiry":"9/30/2016",
+   "category":"General Vendor",
+   "long":40.80718,
+   "lat":-73.926842
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"12/31/2016",
+   "category":"Electronics Store",
+   "long":40.808775,
+   "lat":-73.948921
+ },
+ {
+   "licensetype":"Individual",
+   "expiry":"5/31/2017",
+   "category":"Locksmith",
+   "long":40.605134,
+   "lat":-73.988902
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"7/31/2017",
+   "category":"Secondhand Dealer - General",
+   "long":40.699307,
+   "lat":-73.924451
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"7/31/2017",
+   "category":"Secondhand Dealer - General",
+   "long":40.690477,
+   "lat":-73.924474
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Contractor",
+   "long":40.661414,
+   "lat":-73.693758
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"12/31/2016",
+   "category":"Electronics Store",
+   "long":40.620171,
+   "lat":-74.023678
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"7/31/2017",
+   "category":"Secondhand Dealer - Auto",
+   "long":40.645989,
+   "lat":-73.929183
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"12/15/2017",
+   "category":"Sidewalk Cafe",
+   "long":40.681934,
+   "lat":-73.976468
+ },
+ {
+   "licensetype":"Individual",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Salesperson",
+   "long":40.702413,
+   "lat":-73.806167
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"7/31/2017",
+   "category":"Secondhand Dealer - General",
+   "long":40.665481,
+   "lat":-73.755557
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"12/31/2016",
+   "category":"Electronics Store",
+   "long":40.862395,
+   "lat":-73.894145
+ },
+ {
+   "licensetype":"Individual",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Salesperson",
+   "long":40.70811,
+   "lat":-73.744537
+ },
+ {
+   "licensetype":"Individual",
+   "expiry":"2/28/2017",
+   "category":"Home Improvement Salesperson",
+   "long":40.622083,
+   "lat":-74.023062
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"3/31/2017",
+   "category":"Garage",
+   "long":40.762887,
+   "lat":-73.986922
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"12/31/2016",
+   "category":"Cigarette Retail Dealer",
+   "long":40.69403,
+   "lat":-73.962887
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"1/31/2017",
+   "category":"Debt Collection Agency",
+   "long":41.293067,
+   "lat":-73.0738
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"8/1/2017",
+   "category":"Pool or Billiard Room",
+   "long":40.632522,
+   "lat":-74.021214
+ },
+ {
+   "licensetype":"Business",
+   "expiry":"12/31/2017",
+   "category":"Laundry",
+   "long":40.71326,
+   "lat":-73.911767
+ }
+]
